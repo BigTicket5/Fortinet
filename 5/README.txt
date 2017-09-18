@@ -1,0 +1,1 @@
+I used to use Mockito package with JUnit together to mock DB for service method.
